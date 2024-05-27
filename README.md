@@ -7,6 +7,8 @@ My hobbies are:
 - cooking
 - sports
   
+This is me:
+![Rebecca's Picture](https://scontent-fra3-2.xx.fbcdn.net/v/t31.18172-8/10338456_10202869105753467_1171904911614968556_o.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=X7B69uQltXsQ7kNvgEgA4iV&_nc_ht=scontent-fra3-2.xx&oh=00_AYB3bfmX-Uy8WzT9vcTfFZSDJQ71U24nEisr_Dd3JkZOMQ&oe=667C2151)
 
 
 
